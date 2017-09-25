@@ -14,5 +14,5 @@
  * Adds Font Awesome
  */
 if (TL_MODE == 'FE') {
-    $GLOBALS['TL_HEAD']['fontawesome'] = '<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">';
+    $GLOBALS['TL_HEAD']['fontawesome'] = '<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">';
 }
