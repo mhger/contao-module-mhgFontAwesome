@@ -11,6 +11,7 @@ Adds Font Awesome automaticly to all layouts of your Contao website for further 
 
 ### Manual
 EN: n/a
+
 DE: <https://www.contao-agentur.com/contao-erweiterungen>
 
 
