@@ -1,20 +1,22 @@
 # Contao Extension [mhgFontAwesome]
 
-Contao Modules for easy inclusion of Font Awesome 
+Contao module for easy inclusion of Font Awesome (<http://fontawesome.io>).
 
+Idea and realisation: <https://www.medienhaus-gersoene.de>
 
-Idea and realisation: https://www.medienhaus-gersoene.de
 
 ## Features
-
-Adds Font Awesome for further use to your Contao website.
+Adds Font Awesome automaticly to all layouts of your Contao website for further use.
 
 
 ### Manual
-https://www.contao-agentur.com/contao-erweiterungen
+EN: n/a
+DE: <https://www.contao-agentur.com/contao-erweiterungen>
 
 
 ### Author
+Medienhaus Gersöne <https://github.com/mhger>
+
 Pierre Gersöne <https://github.com/pgersoene> 
 
 
@@ -23,4 +25,4 @@ LGPL 3.0+
 
 
 ### Release
-2017-09-05
+2017-09-27
