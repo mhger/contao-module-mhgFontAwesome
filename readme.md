@@ -1,6 +1,6 @@
-# Contao Extension [mhgFontAwesome]
+# Contao 3 Extension [mhgFontAwesome]
 
-Contao module for easy inclusion of Font Awesome (<http://fontawesome.io>).
+Contao 3 module for easy inclusion of Font Awesome (<http://fontawesome.io>).
 
 Idea and realisation: <https://www.medienhaus-gersoene.de>
 
